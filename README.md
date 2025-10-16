@@ -4,7 +4,8 @@
 ---
 
 > 塵も積もれば山となる
-> “Hasta el polvo acumulado puede formar una montaña”
+
+> “Even dust, when piled up, becomes a mountain”
 
 ---
 
@@ -17,7 +18,7 @@ I'm **Sebastián Montoya**, a **software development apprentice** from **Colombi
 ###  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,MySQL,java,python,git,linux,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,java,python,git,linux,docker,vscode" />
 </p>
 
 ---
@@ -38,5 +39,5 @@ I'm **Sebastián Montoya**, a **software development apprentice** from **Colombi
 
 ---
 
-<h4 align="center">“Learning slowly, growing surely.” 🌸</h4>
+<h4 align="center">“Learning slowly, growing surely.” </h4>
 
