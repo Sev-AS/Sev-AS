@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center"> Sebastián Montoya Ochoa</h1>
+<h3 align="center">Apprentice DevOps Engineer | Software Developer in Progress</h3>
 
-<!--
-**Sev-AS/Sev-AS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+> 塵も積もれば山となる
+> “Hasta el polvo acumulado puede formar una montaña”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👋 About Me
+
+I'm **Sebastián Montoya**, a **software development apprentice** from **Colombia** 🇨🇴.  
+
+---
+
+###  Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,git,linux,docker,aws,vscode" />
+</p>
+
+---
+
+### My Roadmap
+
+[![roadmap.sh](https://roadmap.sh/card/wide/68efccc117747caa5ad8a609?variant=dark&roadmaps=devops)](https://roadmap.sh)
+
+---
+
+### 📬 Contact
+
+<p align="center">
+  <a href="mailto:sebastian.montoya.ochoa7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ </a>
+  <a href="https://github.com/Sev-AS" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<h4 align="center">“Learning slowly, growing surely.” 🌸</h4>
+
