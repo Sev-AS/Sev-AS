@@ -17,7 +17,7 @@ I'm **Sebastián Montoya**, a **software development apprentice** from **Colombi
 ###  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,springboot,python,git,linux,docker,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,MySQL,java,python,git,linux,docker,vscode" />
 </p>
 
 ---
