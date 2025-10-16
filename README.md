@@ -9,7 +9,7 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 I'm **Sebastián Montoya**, a **software development apprentice** from **Colombia** 🇨🇴.  
 
