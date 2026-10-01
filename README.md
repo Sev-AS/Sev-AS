@@ -26,9 +26,9 @@ I build automations that **fail safely and report their own errors**. Most flows
 
 | Project | Problem → Result | Stack |
 |---|---|---|
-| 📄 [Intelligent Document Pipeline]| Documents arriving by email needed manual reading and routing → pipeline now classifies them, routes them to SharePoint, and escalates sensitive cases to a human via Teams | Power Automate · Azure AI Builder · Azure OpenAI |
-| 💬 [WhatsApp AI Support Bot] | A local business answered every customer question manually → the bot took over 70–150 conversations/day, eliminating 100% of the manual workload | n8n · Local LLMs · Docker · PostgreSQL |
-| 🚪 [Visitor Registration System]| Site access control needed a low-cost alternative to enterprise software → functional prototype with folder-watcher orchestration  | Robot Framework · n8n · Tally.so · Docker  |
+| Intelligent Document Pipeline | Documents arriving by email needed manual reading and routing → pipeline now classifies them, routes them to SharePoint, and escalates sensitive cases to a human via Teams | Power Automate · Azure AI Builder · Azure OpenAI |
+| WhatsApp AI Support Bot | A local business answered every customer question manually → the bot took over 70–150 conversations/day, eliminating 100% of the manual workload | n8n · Local LLMs · Docker · PostgreSQL |
+| Visitor Registration System | Site access control needed a low-cost alternative to enterprise software → functional prototype with folder-watcher orchestration  | Robot Framework · n8n · Tally.so · Docker  |
 
 
 
