@@ -4,7 +4,7 @@
 
 **RPA Developer · Power Automate · n8n · AI Automation**
 
-Systems Engineering student (Universidad EAN) · Floridablanca, Colombia (UTC-5)
+Systems Engineering student (Universidad EAN) · Aguachica, Colombia (UTC-5)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-montoya-ochoa-a0b5602ba)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Sebastian.montoya.ochoa7@gmail.com)
